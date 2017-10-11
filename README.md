@@ -8,8 +8,7 @@
 
 ### L1_numpy_pandas.ipynb
 
-Udacity机器学习入门数据分析课程代码&amp;The code of data analysis by Udacity MLND
-
+Udacity机器学习入门数据分析课程代码
 the files of data and requirements by l1-starter-code-zh-cn.ipynb : 
 
   	daily_engagement.csv
